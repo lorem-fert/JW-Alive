@@ -1,0 +1,277 @@
+
+.main_box{
+   display: flex; 
+   justify-content:center;
+ font-family: 'Bangers', cursive;   
+    font-size:70px 
+}
+.main_box_revies {
+   text-align: center;
+   margin-top: 20px;
+   font-size: 30px;
+   font-family: 'Concert One', cursive;    
+}
+.navigation a{
+  text-decoration: none;
+  color: #3ACDD5;      
+}
+.navigation li{
+    display: inline-block;
+}
+.navigation ul{
+    text-align: center;
+    margin-right:40px;
+    font-family: 'Indie Flower', cursive;
+    font-size:30px
+}
+span{
+   margin-left:140px;
+}
+.main_box_img{
+    background-image: url(/img/blue%20luggage%20bag%20@1X.png);
+    height: 450px;
+    width: 249px;
+    position:absolute;
+top:0;
+margin-top:270px;
+    
+}
+.main_box_text{
+   font-family: 'Concert One', cursive;
+   font-size: 20px;
+    position:absolute;
+top:0;
+margin-top:750px;
+}
+.main_box_img2{
+ background-image: url(/img/black%20bag%20front%20back@1X.png) ; 
+    width: 835px;
+    height: 436px;
+    margin-left: 300px;
+
+position:absolute;
+top:0;
+margin-top: 300px;
+}
+.main_box_text2{
+ font-family: 'Concert One', cursive;
+    font-size: 20px;
+    margin-left: 636px;
+    position:absolute;
+top:0;
+margin-top: 740px;
+}
+.main_box_img3{
+    background-image: url(/img/sky%20blue%20luggage%20bag@1X.png);
+    height:389px;
+    width: 307px;
+    margin-left: 1250px;
+    margin-top: 100px
+}
+.main_box_text3{
+   font-family: 'Concert One', cursive;
+    font-size: 20px;
+    position:absolute;
+top:0;
+    margin-top: 745px;
+    margin-left: 1250px;
+}
+.text{
+   font-family: 'Concert One', cursive;
+    font-size: 20px;
+    margin-left: 182px;
+    margin-top: 805px;
+    position:absolute;
+top:0;
+}
+.img{
+    background-image: url(/img/shopping-cart%20copy@1X.png);
+    width:28px;
+    height: 26px;
+    margin-left: 245px;
+     position:absolute;
+top:0;
+    margin-top: 800px;
+}
+.text2{
+  font-family: 'Concert One', cursive;  
+   font-size: 20px;
+    margin-left: 770px;
+    position: absolute;
+    top: 0;
+    margin-top: 800px;
+}
+.img2{
+     background-image: url(/img/shopping-cart%20copy@1X.png);
+    width:28px;
+    height: 26px;
+    margin-left:835px;
+    position:absolute;
+top:0;
+    margin-top: 800px;
+}
+.text3{
+  font-family: 'Concert One', cursive;  
+   font-size: 20px;
+    margin-left: 1345px;
+    position: absolute;
+    top: 0;
+    margin-top: 845px;
+}
+.img3{
+   background-image: url(/img/shopping-cart%20copy@1X.png);
+    width:28px;
+    height: 26px;
+    margin-left:1405px;
+    margin-top: 845px;
+    position: absolute;
+    top: 0;
+}
+.main_box_img4{
+    background-image: url(/img/kisspng-american-tourister-suitcase-samsonite-baggage-trav-orange-suitcase-caster-5a9aa67ca38c32.1914375015200846046699@1X.png);
+    width: 214px;
+    height:442px;
+    margin-top: 300px;
+    margin-left: 10px;
+}
+.main_box_img5{
+    background-image: url(/img/Two_Blue_Travel_Bags_PNG_Clipart_Picture@1X.png);
+    width: 385px;
+    height:442px;
+    margin-top: 300px;
+    margin-left: 600px;
+    position: absolute;
+    top: 0;
+    margin-top: 1030px;
+}
+.main_box_img6{
+    background-image: url(/img/Pink_Travel_Bag_PNG_Clipart_Picture@1X.png);
+    width: 220px;
+    height:440px;
+    margin-top: 300px;
+    margin-left: 1260px;
+   position: absolute;
+    top: 0;
+    margin-top: 1040px; 
+}
+.main_box_text4{
+   font-family: 'Concert One', cursive;  
+   font-size: 20px;
+    position: absolute;
+    top: 0;
+    margin-top: 1510px; 
+}
+.main_box_text5{
+   font-family: 'Concert One', cursive;  
+   font-size: 20px;
+    position: absolute;
+    top: 0;
+    margin-top: 1510px; 
+    margin-left: 610px
+}
+.main_box_text6{
+   font-family: 'Concert One', cursive;  
+   font-size: 20px;
+    position: absolute;
+    top: 0;
+    margin-top: 1490px;
+    margin-left: 1250px;
+}
+.text4{
+  font-family: 'Concert One', cursive;  
+    font-size: 20px;
+    position: absolute;
+    top: 0;
+    margin-top: 1570px;
+    margin-left: 175px; 
+}
+.text5{
+  font-family: 'Concert One', cursive;  
+    font-size: 20px;
+    position: absolute;
+    top: 0;
+    margin-top: 1570px;
+    margin-left: 770px; 
+}
+.text6{
+  font-family: 'Concert One', cursive;  
+    font-size: 20px;
+    position: absolute;
+    top: 0;
+    margin-top: 1580px;
+    margin-left:1345px; 
+}
+.img4{
+    background-image: url(/img/shopping-cart%20copy@1X.png);
+    width:28px;
+    height: 26px;
+    margin-left:1404px;
+    margin-top: 1578px;
+    position: absolute;
+    top: 0;
+}
+.img5{
+    background-image: url(/img/shopping-cart%20copy@1X.png);
+    width:28px;
+    height: 26px;
+    margin-left:830px;
+    margin-top: 1570px;
+    position: absolute;
+    top: 0;
+}
+.img6{
+    background-image: url(/img/shopping-cart%20copy@1X.png);
+    width:28px;
+    height: 26px;
+    margin-left:237px;
+    margin-top: 1570px;
+    position: absolute;
+    top: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
